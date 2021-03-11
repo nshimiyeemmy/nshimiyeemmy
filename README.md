@@ -111,7 +111,11 @@ No Activity tracked this Week
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nshimiyeemmy&repo=shop-IT-backend&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nshimiyeemmy&repo=travel-site&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+
+
+travel-site
 
 <!-- Visitors -->
 <!-- Footer -->
