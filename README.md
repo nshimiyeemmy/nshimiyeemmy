@@ -41,6 +41,9 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 #### This time I spent my time on:
 
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
 
 
