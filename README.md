@@ -90,6 +90,8 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
   ![visitors](https://visitor-badge.glitch.me/badge?page_id=nshimiyeemmy.nshimiyeemmy)
 
+
+
 #### **This time I spent my time on:**
 
 <!--START_SECTION:waka-->
@@ -102,6 +104,8 @@ No Activity tracked this Week
 #### **Github Stats**
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nshimiyeemmy&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nshimiyeemmy&hide=TeX&layout=compact&theme=radical)
+
 
 
 
