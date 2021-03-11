@@ -17,7 +17,12 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
 :mailbox: Reach me out!
 
-[![Twitter Badge](https://img.shields.io/badge/-@Nshimiye-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/NshimiyeEmmy7)](https://twitter.com/NshimiyeEmmy7) [![Linkedin Badge](https://img.shields.io/badge/-Emmy-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nshimiye-emmy-4737b2185/) [![Mail Badge](https://img.shields.io/badge/-@nshimiye_250-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/nshimiye_250/) [![Mail Badge](https://img.shields.io/badge/-emmy-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:nshimiyee311@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/NshimiyeEmmy7) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nshimiye-emmy-4737b2185/) [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nshimiye_250/) [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nshimiyee311@gmail.com)  [![Facebook Badge](
+https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/emmy.nshimiye.37/) [![GitHub Badge](
+https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
+)](https://github.com/nshimiyeemmy)  [![Twitter Badge](https://img.shields.io/badge/Bitbucket-330F63?style=for-the-badge&logo=bitbucket&logoColor=white)](hhttps://bitbucket.org/nshimiye_250/)  [![Twitter Badge](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/13912304/nshimiye-emmy)  [![Twitter Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://stackoverflow.com/users/13912304/nshimiye-emmy)  [![Twitter Badge](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/dev_emmy)
+
+
 
 <!-- TODO: Add last video link -->
 
@@ -106,16 +111,14 @@ No Activity tracked this Week
 #### **🚩 Github Stats**
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nshimiyeemmy&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nshimiyeemmy&hide=TeX&layout=compact&theme=radical)
 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nshimiyeemmy&repo=shop-IT-backend&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nshimiyeemmy&repo=travel-site&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nshimiyeemmy&repo=travel-site&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-
-
-travel-site
 
 <!-- Visitors -->
 <!-- Footer -->
