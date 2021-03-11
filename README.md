@@ -1,8 +1,18 @@
 ## Hey there! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-Hi, I'm Nshimiye Emmy, a passionate Full Stack sofware developer, a freelance software engineer, Embedded system developer, Network Engineer from Rwanda. My passion for software lies with dreaming up ideas and making them come true with elegant UX/UI interfaces. I take great care in the experience, architecture, and code quality of the things I build
+<div align="left">
+  <img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
+  <br />
+  <br />
+  </div>
+
+Hi, I'm Nshimiye Emmy, a passionate Full Stack sofware developer, a freelance software engineer, Embedded system developer, Network Engineer from Rwanda. My passion for software lies with dreaming up ideas and making them come true with elegant UX/UI interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+
+Programmer specialized in web development using multiple tools, frameworks and libraries both in frontend and backend. I pay a lot of attention to detail to generate best products
+
 
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love collaborating and sharing knowledge with other developers around the.
+
 
 :mailbox: Reach me out!
 
@@ -19,7 +29,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 - ⚡ Fun fact: I write codes and eat much often.
 - - 📝[Resume](https://drive.google.com/file/d/186ledj5PMY2damRWGpOrxYQZ2xSKjKD_/view)
 
-#### Top Technologies and tools
+#### Top Technologies and tools that I use
 
 <!-- TODO: Make technologies links takes you to repositories -->
 
@@ -27,6 +37,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 [![Java Badge](https://img.shields.io/badge/-Java-007396?style=for-the-badge&labelColor=black&logo=java&logoColor=007396)](#)
 [![angular Badge](https://img.shields.io/badge/-angular-DD0031?style=for-the-badge&labelColor=white&logo=angular&logoColor=DD0031)](#)
 
+**Deployment platforms** such as `github pages`, `Herkou` and `Netlify`.
 
 
 
