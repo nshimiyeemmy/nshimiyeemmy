@@ -1,7 +1,8 @@
-## Hey there! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
+## Hey there! <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
 <div align="left">
   <img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
+  <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
   <br />
   <br />
   </div>
@@ -23,11 +24,17 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 - 🔭  🔭 I’m currently working on **shop-IT** (This is an internship project to develop an ecommerce application). 
 -  💬 Ask me about anything, I am happy to help;
 - :computer: Most used line of code `git commit -m "Initial Commit"`
-- 🤔 I’m looking for help with Outstanding Software development Project ideas.
+- 👯 I’m looking to collaborate on Computer Vision or any Python Projects
 - 📫 How to reach me: nshimiyee311@gmail.com.
-- 😄 Pronouns: emmy, @dev_emmy, Nshimiye.
+- 😄 Pronouns: emmy, @dev_emmy, Nshimiye, he/him.
 - ⚡ Fun fact: I write codes and eat much often.
-- - 📝[Resume](https://drive.google.com/file/d/186ledj5PMY2damRWGpOrxYQZ2xSKjKD_/view)
+- 👯 I’m looking to collaborate on any open source project.
+- 🌱 I’m currently advancing my skills in Java, Python, Angular
+- 💬 Ask me about React, Node.js, PHP
+- 📝 I regularly write articles on https://dev.to/dev_emmy
+- 📝Know about my experiences [Resume]([in](https://dev.to/dev_emmy))
+- ⚡ Fun fact I know it's crazy, but I love to eat,hhhhh
+
 
 
 💻 **Top Technologies and tools that I use dairly:** 🛠️
@@ -86,13 +93,13 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
 - :email: nshimiyee311@gmail.com
 
-#### **Profile Visits**
+#### **🎨 Profile Visits**
 
   ![visitors](https://visitor-badge.glitch.me/badge?page_id=nshimiyeemmy.nshimiyeemmy)
 
 
 
-#### **This time I spent my time on:**
+#### **✅ This time I spent my time on:**
 
 <!--START_SECTION:waka-->
 ```text
@@ -101,13 +108,22 @@ No Activity tracked this Week
 <!--END_SECTION:waka-->
 
 
-#### **Github Stats**
+#### **🚩 Github Stats**
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nshimiyeemmy&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nshimiyeemmy&hide=TeX&layout=compact&theme=radical)
 
 
+<!-- Visitors -->
+<!-- Footer -->
+
+<div align="center">
 
 
+<img height="40" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+<br />
+<br />
+
+![Visitor Count](https://profile-counter.glitch.me/nshimiyeeemmy/count.svg)
 
 
