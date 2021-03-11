@@ -1,6 +1,6 @@
 ## Hey there! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-Hi, I'm Nshimiye Emmy, a passionate Full Stack sofware developer and a freelance software engineer from Rwanda-Nyagatare. My passion for software lies with dreaming up ideas and making them come true with elegant UX/UI interfaces. I take great care in the experience, architecture, and code quality of the things I build
+Hi, I'm Nshimiye Emmy, a passionate Full Stack sofware developer, a freelance software engineer, Embedded system developer, Network Engineer from Rwanda. My passion for software lies with dreaming up ideas and making them come true with elegant UX/UI interfaces. I take great care in the experience, architecture, and code quality of the things I build
 
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love collaborating and sharing knowledge with other developers around the.
 
@@ -11,18 +11,45 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <!-- TODO: Add last video link -->
 
 - 🔭  🔭 I’m currently working on **shop-IT** (This is an internship project to develop an ecommerce application). 
+-  💬 Ask me about anything, I am happy to help;
 - :computer: Most used line of code `git commit -m "Initial Commit"`
 - 🤔 I’m looking for help with Outstanding Software development Project ideas.
 - 📫 How to reach me: nshimiyee311@gmail.com.
 - 😄 Pronouns: emmy, @dev_emmy, Nshimiye.
 - ⚡ Fun fact: I write codes and eat much often.
+- - 📝[Resume](https://drive.google.com/file/d/186ledj5PMY2damRWGpOrxYQZ2xSKjKD_/view)
 
-#### Top Technologies
+#### Top Technologies and tools
 
 <!-- TODO: Make technologies links takes you to repositories -->
 
 [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#)
+[![Java Badge](https://img.shields.io/badge/-Java-007396?style=for-the-badge&labelColor=black&logo=java&logoColor=007396)](#)
+[![angular Badge](https://img.shields.io/badge/-angular-DD0031?style=for-the-badge&labelColor=white&logo=angular&logoColor=DD0031)](#)
 
+
+
+
+#### Wanna Contact me for Bizness
+
+- :email: nshimiyee311@gmail.com
+
+#### Profile Visits 
+
+  ![visitors](https://visitor-badge.glitch.me/badge?page_id=nshimiyeemmy.nshimiyeemmy)
+
+#### This time I spent my time on:
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+
+#### Github Stats
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nshimiyeemmy&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+<details>
+<summary>
 ### Tutorials I watch to learn more skills
 
 [<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][reactplaylist]
@@ -51,25 +78,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
 <br />
 <br />
-
-#### Wanna Contact me for Bizness
-
-- :email: nshimiyee311@gmail.com
-
-
-#### Profile Visits 
-
-  ![visitors](https://visitor-badge.glitch.me/badge?page_id=nshimiyeemmy.nshimiyeemmy)
-
-#### Coding Stats
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-
-#### Github Stats
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nshimiyeemmy&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<details>
 
 
 
