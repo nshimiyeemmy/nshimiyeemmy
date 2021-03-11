@@ -22,20 +22,15 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <!-- TODO: Add last video link -->
 
 - 🔭  🔭 I’m currently working on **shop-IT** (This is an internship project to develop an ecommerce application). 
--  💬 Ask me about anything, I am happy to help;
 - :computer: Most used line of code `git commit -m "Initial Commit"`
-- 👯 I’m looking to collaborate on Computer Vision or any Python Projects
+- 👯 I’m looking to collaborate on Computer Vision, any Python Projects, open source project.
 - 📫 How to reach me: nshimiyee311@gmail.com.
 - 😄 Pronouns: emmy, @dev_emmy, Nshimiye, he/him.
-- ⚡ Fun fact: I write codes and eat much often.
-- 👯 I’m looking to collaborate on any open source project.
 - 🌱 I’m currently advancing my skills in Java, Python, Angular
-- 💬 Ask me about React, Node.js, PHP
+- 💬 Ask me about React, Node.js, PHP, , I am happy to help
 - 📝 I regularly write articles on https://dev.to/dev_emmy
 - 📝Know about my experiences [Resume]([in](https://dev.to/dev_emmy))
-- ⚡ Fun fact I know it's crazy, but I love to eat,hhhhh
-
-
+- ⚡ Fun fact: I know it's crazy, but I love to eat hhhhh.
 
 💻 **Top Technologies and tools that I use dairly:** 🛠️
 
