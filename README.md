@@ -114,15 +114,17 @@ No Activity tracked this Week
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nshimiyeemmy&hide=TeX&theme=radical)
 
-<div align="right">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nshimiyeemmy&repo=shop-IT-backend&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-</div>
-<div align="left">
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nshimiyeemmy&repo=travel-site&theme=radical&layout=compact) ](https://github.com/anuraghazra/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nshimiyeemmy&repo=travel-site&theme=radical) ](https://github.com/anuraghazra/github-readme-stats)
-</div>
+
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nshimiyeemmy&repo=shop-IT-backend&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
 
 <!-- Visitors -->
 <!-- Footer -->
