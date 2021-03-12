@@ -110,17 +110,17 @@ No Activity tracked this Week
 
 #### **🚩 Github Stats**
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nshimiyeemmy&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nshimiyeemmy&hide=TeX&theme=radical)
+</a><a href="https://github.com/nshimiyeemmy">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=nshimiyeemmy&show_icons=true&theme=radical&line_height=27" alt="Nshimiye's github stats"/>
+</a>
+<a href="https://github.com/nshimiyeemmy">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nshimiyeemmy&theme=radical&hide_langs_below=1" />
 
 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nshimiyeemmy&repo=travel-site&theme=radical&layout=compact) ](https://github.com/anuraghazra/github-readme-stats)
-
-
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nshimiyeemmy&repo=shop-IT-backend&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
@@ -137,4 +137,3 @@ No Activity tracked this Week
 <br />
 
 ![Visitor Count](https://profile-counter.glitch.me/nshimiyeeemmy/count.svg)
-
