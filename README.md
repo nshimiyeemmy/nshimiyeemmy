@@ -103,14 +103,6 @@ https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoC
 #### **✅ This time I spent my time on:**
 
 <!--START_SECTION:waka-->
-```text
-💬 Languages: 
-Markdown     4 hrs 48 mins   ██████████████████████▓░░   90.97 % 
-JavaScript   23 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.52 % 
-JSON         4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.40 % 
-🔥 Editors:
-💻 Operating Systems: 
-```
 <!--END_SECTION:waka-->
 
 
