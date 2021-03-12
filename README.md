@@ -2,7 +2,7 @@
 
 <div align="left">
   <img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
-  <img align='right' style="max-width:100px" src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
+  <img align='right' style="max-width:100px" src='https://i.giphy.com/media/VTtANKl0beDFQRLDTh/200w.webp' width='200"'>
   <br />
   <br />
   </div>
