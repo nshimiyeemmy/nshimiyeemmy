@@ -33,9 +33,9 @@ https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoC
 - 😄 Pronouns: emmy, @dev_emmy, Nshimiye, he/him.
 - 🌱 I’m currently advancing my skills in Java, Python, Angular
 - 💬 Ask me about React, Node.js, PHP, , I am happy to help
-- 📝 I regularly write articles on: [dev.to](https://dev.to/dev_emmy)
-- 📝Know about my experiences: [Resume]([in](https://dev.to/dev_emmy))
-- ⚡ Fun fact: I know it's crazy, but I love to eat hhhhh.
+- 📝 I regularly write articles on  [dev.to](https://dev.to/dev_emmy)
+- ⚡ Fun fact: I know it's crazy, but I love to eat hhhhh
+- 📝Know about my experiences  [Resume]([in](https://dev.to/dev_emmy))
 
 💻 **Top Technologies and tools that I use dairly:** 🛠️
 
