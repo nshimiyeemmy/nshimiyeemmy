@@ -101,7 +101,6 @@ https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoC
 
 
 #### **✅ This time I spent my time on:**
-
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
