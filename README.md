@@ -88,6 +88,7 @@ https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoC
 🌍 **Deployment platforms:**<br>
 <img alt="Github Pages" width="20px" height="20px" src="https://techcrunch.com/wp-content/uploads/2010/07/github-logo.png" />![Github Pages](https://img.shields.io/badge/-Github%20Pages-000000?style=flat&logo=github-pages) ![Heroku](https://img.shields.io/badge/-Heroku-000000?style=flat&logo=heroku&labelColor=430098) ![Netlify](https://img.shields.io/badge/-Netlify-000000?style=flat&logo=netlify&labelColor=000000)
 
+![Waka Readme](https://github.com/nshimiyeemmy/nshimiyeemmy/workflows/Waka%20Readme/badge.svg)
 
 #### **Wanna Contact me for Bussiness**
 
@@ -132,6 +133,8 @@ JSON         4 mins          ▒░░░░░░░░░░░░░░░░
 <!-- Footer -->
 
 <div align="center">
+
+
 
 
 <img height="40" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
