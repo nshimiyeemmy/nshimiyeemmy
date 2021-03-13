@@ -96,10 +96,6 @@ https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoC
 
   ![visitors](https://visitor-badge.glitch.me/badge?page_id=nshimiyeemmy.nshimiyeemmy)
 
-
-
-#### **✅ This time I spent my time on:**
-
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
