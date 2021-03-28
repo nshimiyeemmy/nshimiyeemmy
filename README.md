@@ -97,11 +97,11 @@ https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoC
   ![visitors](https://visitor-badge.glitch.me/badge?page_id=nshimiyeemmy.nshimiyeemmy)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-12-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-16-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 439 Contributions in the Year 2021
+> 🏆 440 Contributions in the Year 2021
  > 
 > 📦 5.3 kB Used in Github's Storage 
  > 
@@ -140,16 +140,17 @@ Sunday       0 commits      ░░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Africa/Johannesburg
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+CSS                      9 mins              ███████████████░░░░░░░░░░   59.96% 
+JavaScript               6 mins              ██████████░░░░░░░░░░░░░░░   40.04%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  16 mins             █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+front_end                16 mins             █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  16 mins             █████████████████████████   100.0%
 
 ```
 
