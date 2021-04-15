@@ -97,7 +97,7 @@ https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoC
   ![visitors](https://visitor-badge.glitch.me/badge?page_id=nshimiyeemmy.nshimiyeemmy)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My Github Data** 
 
@@ -140,16 +140,16 @@ Sunday       0 commits      ░░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Africa/Johannesburg
 
 💬 Programming Languages: 
-JavaScript               23 mins             █████████████████████████   100.0%
+JavaScript               2 hrs 24 mins       █████████████████████████   100.0%
 
 🔥 Editors: 
-VS Code                  23 mins             █████████████████████████   100.0%
+VS Code                  2 hrs 24 mins       █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-shop_IT                  23 mins             █████████████████████████   100.0%
+shop_IT                  2 hrs 24 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  23 mins             █████████████████████████   100.0%
+Windows                  2 hrs 24 mins       █████████████████████████   100.0%
 
 ```
 
