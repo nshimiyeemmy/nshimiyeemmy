@@ -101,7 +101,7 @@ https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoC
 
 **🐱 My Github Data** 
 
-> 🏆 0 Contributions in the Year 2021
+> 🏆 541 Contributions in the Year 2021
  > 
 > 📦 5.8 kB Used in Github's Storage 
  > 
