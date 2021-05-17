@@ -140,17 +140,16 @@ Sunday       0 commits      ░░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Africa/Johannesburg
 
 💬 Programming Languages: 
-JavaScript               1 hr 24 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 24 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-front_end                58 mins             █████████████████░░░░░░░░   68.47% 
-shop_IT                  26 mins             ████████░░░░░░░░░░░░░░░░░   31.53%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 hr 24 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
