@@ -103,7 +103,7 @@ https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoC
 
 > 🏆 646 Contributions in the Year 2021
  > 
-> 📦 23.9 kB Used in Github's Storage 
+> 📦 24.0 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
