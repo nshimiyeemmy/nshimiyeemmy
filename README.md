@@ -140,19 +140,16 @@ Sunday       35 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Africa/Johannesburg
 
 💬 Programming Languages: 
-JavaScript               3 hrs 57 mins       ███████████████████████░░   93.75% 
-CSS                      15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.19% 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.05%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  4 hrs 13 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-front_end                3 hrs 45 mins       ██████████████████████░░░   88.71% 
-shop_IT                  28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   11.29%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  4 hrs 13 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -172,7 +169,7 @@ C++                      1 repo              ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/nshimiyeemmy/nshimiyeemmy/master/charts/bar_graph.png) 
 
 
- Last Updated on 27/06/2021
+ Last Updated on 29/06/2021
 <!--END_SECTION:waka-->
 
 
