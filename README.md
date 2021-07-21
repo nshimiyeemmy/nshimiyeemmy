@@ -140,21 +140,16 @@ Sunday       26 commits     █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Africa/Johannesburg
 
 💬 Programming Languages: 
-JavaScript               23 mins             ███████████░░░░░░░░░░░░░░   44.58% 
-JSON                     17 mins             ████████░░░░░░░░░░░░░░░░░   33.53% 
-Markdown                 5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   11.21% 
-YAML                     5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   10.69% 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  53 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-learning-platform        33 mins             ███████████████░░░░░░░░░░   62.68% 
-my-gatsby-site           19 mins             █████████░░░░░░░░░░░░░░░░   37.32%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  53 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -174,7 +169,7 @@ C++                      1 repo              ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/nshimiyeemmy/nshimiyeemmy/master/charts/bar_graph.png) 
 
 
- Last Updated on 19/07/2021
+ Last Updated on 21/07/2021
 <!--END_SECTION:waka-->
 
 
