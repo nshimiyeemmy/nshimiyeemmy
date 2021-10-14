@@ -101,7 +101,7 @@ https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoC
 
 **🐱 My GitHub Data** 
 
-> 🏆 0 Contributions in the Year 2021
+> 🏆 822 Contributions in the Year 2021
  > 
 > 📦 35.7 kB Used in GitHub's Storage 
  > 
@@ -170,7 +170,7 @@ C++                      1 repo              ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/nshimiyeemmy/nshimiyeemmy/master/charts/bar_graph.png) 
 
 
- Last Updated on 13/10/2021
+ Last Updated on 14/10/2021
 <!--END_SECTION:waka-->
 
 
