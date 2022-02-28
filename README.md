@@ -97,7 +97,7 @@ https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoC
   ![visitors](https://visitor-badge.glitch.me/badge?page_id=nshimiyeemmy.nshimiyeemmy)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 **🐱 My GitHub Data** 
 
@@ -156,11 +156,11 @@ No Activity Tracked This Week
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               23 repos            ██████████████████░░░░░░░   71.88% 
-Java                     4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.5% 
-HTML                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.38% 
-C++                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.12% 
-CSS                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.12%
+JavaScript               24 repos            ██████████████████░░░░░░░   72.73% 
+Java                     4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.12% 
+HTML                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.09% 
+C++                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.03% 
+CSS                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.03%
 
 ```
 
@@ -170,7 +170,7 @@ CSS                      1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/nshimiyeemmy/nshimiyeemmy/master/charts/bar_graph.png) 
 
 
- Last Updated on 26/02/2022 18:42:01 UTC
+ Last Updated on 28/02/2022 18:43:47 UTC
 <!--END_SECTION:waka-->
 
 
