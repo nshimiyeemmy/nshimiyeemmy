@@ -97,13 +97,13 @@ https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoC
   ![visitors](https://visitor-badge.glitch.me/badge?page_id=nshimiyeemmy.nshimiyeemmy)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 🏆 294 Contributions in the Year 2022
  > 
-> 📦 55.8 kB Used in GitHub's Storage 
+> 📦 55.9 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -170,7 +170,7 @@ CSS                      1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/nshimiyeemmy/nshimiyeemmy/master/charts/bar_graph.png) 
 
 
- Last Updated on 09/04/2022 18:44:12 UTC
+ Last Updated on 16/04/2022 18:44:16 UTC
 <!--END_SECTION:waka-->
 
 
