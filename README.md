@@ -105,7 +105,7 @@ https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoC
 
 > 🏆 299 Contributions in the Year 2022
  > 
-> 📦 55.1 kB Used in GitHub's Storage 
+> 📦 55.2 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -172,7 +172,7 @@ CSS                      1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/nshimiyeemmy/nshimiyeemmy/master/charts/bar_graph.png) 
 
 
- Last Updated on 16/05/2022 18:53:36 UTC
+ Last Updated on 18/05/2022 18:47:12 UTC
 <!--END_SECTION:waka-->
 
 
