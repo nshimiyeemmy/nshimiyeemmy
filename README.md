@@ -97,7 +97,7 @@ https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoC
   ![visitors](https://visitor-badge.glitch.me/badge?page_id=nshimiyeemmy.nshimiyeemmy)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-185%20hrs%2041%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -172,7 +172,7 @@ CSS                      1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/nshimiyeemmy/nshimiyeemmy/master/charts/bar_graph.png) 
 
 
- Last Updated on 07/08/2022 18:45:36 UTC
+ Last Updated on 10/08/2022 18:47:01 UTC
 <!--END_SECTION:waka-->
 
 
