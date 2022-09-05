@@ -97,7 +97,7 @@ https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoC
   ![visitors](https://visitor-badge.glitch.me/badge?page_id=nshimiyeemmy.nshimiyeemmy)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-185%20hrs%2041%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -113,6 +113,48 @@ https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoC
  > 
 > 🔑 9 Private Repositories  
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning    33 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.31% 
+🌆 Daytime    85 commits     ████████░░░░░░░░░░░░░░░░░   34.27% 
+🌃 Evening    84 commits     ████████░░░░░░░░░░░░░░░░░   33.87% 
+🌙 Night      46 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.55%
+
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday       35 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.11% 
+Tuesday      29 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.69% 
+Wednesday    72 commits     ███████░░░░░░░░░░░░░░░░░░   29.03% 
+Thursday     22 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.87% 
+Friday       37 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.92% 
+Saturday     42 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.94% 
+Sunday       11 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.44%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Africa/Johannesburg
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -130,7 +172,7 @@ CSS                      1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/nshimiyeemmy/nshimiyeemmy/master/charts/bar_graph.png) 
 
 
- Last Updated on 04/09/2022 18:45:51 UTC
+ Last Updated on 05/09/2022 18:49:13 UTC
 <!--END_SECTION:waka-->
 
 
