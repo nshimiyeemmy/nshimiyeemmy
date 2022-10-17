@@ -99,13 +99,13 @@ https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoC
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-185%20hrs%2041%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 🏆 317 Contributions in the Year 2022
  > 
-> 📦 55.2 kB Used in GitHub's Storage 
+> 📦 55.3 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -172,7 +172,7 @@ CSS                      1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/nshimiyeemmy/nshimiyeemmy/master/charts/bar_graph.png) 
 
 
- Last Updated on 16/10/2022 18:51:52 UTC
+ Last Updated on 17/10/2022 19:09:23 UTC
 <!--END_SECTION:waka-->
 
 
